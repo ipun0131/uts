@@ -142,7 +142,7 @@ class HomePage extends StatelessWidget {
                   width: 200,
                   height: 200,
                   child: Image.asset(
-                    'assets/coffee_2.jpg',
+                    'assets/tas.jpg',
                     fit: BoxFit.cover,
                   ),
                 ),
@@ -150,7 +150,7 @@ class HomePage extends StatelessWidget {
                   width: 8,
                   height: 8,
                 ),
-                const SizedBox(height: 150, width: 100, child: Text('Coffe'))
+                const SizedBox(height: 150, width: 100, child: Text('Bag'))
               ],
             ),
           ),
